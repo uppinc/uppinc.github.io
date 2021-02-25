@@ -1,0 +1,36 @@
+.info-content {
+    width: 80vw;
+    min-width: 900px;
+}
+
+.info-dialog {
+    width: 80vw;
+    min-width: 900px;
+    padding-top: 110px;
+    overflow-y: initial !important
+}
+
+.info-modal-body {
+    height: 600px;
+    overflow-y: auto;
+}
+
+.info-header {
+    background-color:  rgba(58, 58, 58, 0.86);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0; 
+}
+
+.info-close-btn {
+    color: white;
+}
+
+.android-header {
+    text-align: center;
+}
+
+.ios-header {
+    text-align: center;
+}
+
+
